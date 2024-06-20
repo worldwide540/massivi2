@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "massivi2", "massivi2\massivi2.csproj", "{78EECD51-4008-4A1D-B925-54A149F21A56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78EECD51-4008-4A1D-B925-54A149F21A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EECD51-4008-4A1D-B925-54A149F21A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EECD51-4008-4A1D-B925-54A149F21A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EECD51-4008-4A1D-B925-54A149F21A56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E03FA1AA-6A0B-425F-B8C9-1C1D4EE17E76}
+	EndGlobalSection
+EndGlobal
